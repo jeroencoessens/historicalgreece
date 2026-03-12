@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1461a31a114724cca90c26848e655b75, type: 3}
+  m_Name: Parthenon
+  m_EditorClassIdentifier: HistoricalGreece::HistoricalGreece.Core.HistoricalSite
+  siteName: Parthenon
+  tagline: Temple on Acropolis
+  description: The Parthenon is a former temple on the Athenian Acropolis, Greece,
+    that was dedicated to the goddess Athena.
+  period: 1
+  civilization: 0
+  category: 0
+  latitude: 37.97152328491211
+  longitude: 23.726591110229492
+  activationRadiusMeters: 100
+  headingOffsetDegrees: 0
+  arPrefabOnLocation: {fileID: 3560257094372403590, guid: dcdad06dc83354a24b2ca4c931aa8969, type: 3}
+  arPrefabPreview: {fileID: 3560257094372403590, guid: dcdad06dc83354a24b2ca4c931aa8969, type: 3}
+  previewScale: 0.05
+  onLocationScale: 1
+  thumbnail: {fileID: 21300000, guid: bdaf057d741e64250b3f0dddfb6aa498, type: 3}
+  galleryImages: []
+  accentColor: {r: 0.85, g: 0.65, b: 0.25, a: 1}
+  regionName: Attiki
+  countryName: Greece
+  travelTips: 
+  estimatedVisitMinutes: 60
+  accessibilityRating: 3
+  isActive: 1
+  customPeriodLabel: 
